@@ -18,12 +18,6 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwan910&theme=radical&layout=compact)](https://github.com/bwan910/github-readme-stats)
 
-<a href="https://github.com/bwan910/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bwan910&show_icons=true&theme=radical&include_all_commits=true" />
-</a>
-<a href="https://github.com/bwan910/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwan910&theme=radical&layout=compact" />
-</a>
 
 
 [linkedin]: https://www.linkedin.com/in/brandon-wan-053847193/
