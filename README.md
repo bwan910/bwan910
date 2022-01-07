@@ -12,6 +12,8 @@
 
 <br />
 
+### Github Stats
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwan910)](https://github.com/bwan910/github-readme-stats)
 
 
 
