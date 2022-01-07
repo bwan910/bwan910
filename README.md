@@ -18,5 +18,8 @@
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwan910&theme=radical&layout=compact)](https://github.com/bwan910/github-readme-stats)
 
+### Wakatime stats
+[![Brandon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/bwan910/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/brandon-wan-053847193/
