@@ -13,10 +13,10 @@
 <br />
 
 ### Github Stats
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwan910&show_icons=true&theme=radical&include_all_commits)](https://github.com/bwan910/github-readme-stats)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bwan910&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/bwan910/github-readme-stats)
 
-### Top Lannguages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwan910)](https://github.com/bwan910/github-readme-stats)
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bwan910&theme=radical&layout=compact)](https://github.com/bwan910/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/brandon-wan-053847193/
