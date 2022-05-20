@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking for more opportunities in the tech field
-- ⚡ Fun fact: I love to read
+- ⚡ Fun fact: Badminton lover
 
 
 ### Connect with me:
