@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Brandon, a CS student and Data Scientist 👨‍💻 🚀<br>🔭 I’m currently learning Data Science.<br><br>🌱 I’m currently seeking work opportunities in Data Science<br><br>❓ Ask me about anything related to Data Science and Web Development<br><br>⚡ Fun fact: I don't usually write semicolons
+I'm Brandon, a CS student and Data Scientist 👨‍💻 🚀<br>🔭 I’m currently learning everything.<br><br>🌱 I’m currently seeking work opportunities in Computer Science<br><br>❓ Ask me about anything related to Data Science and Web Development<br><br>⚡ Fun fact: I don't usually write semicolons
 
 
 ## 🌐 Socials:
